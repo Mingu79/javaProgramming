@@ -6,7 +6,7 @@ public class Ifelse {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		
-		//첫번째, 두번째 정수를 입력받는다
+		
 		System.out.print("첫 번째 값 : ");
 		int one = scan.nextInt();
 		
@@ -15,7 +15,6 @@ public class Ifelse {
         
 		int result = 0;
 		
- 		//기호를 입력받는다
 		System.out.print("(+, -, *, /) 중 연산자를 선택해 주세요 : ");
 		String sign = scan.next();
 		
