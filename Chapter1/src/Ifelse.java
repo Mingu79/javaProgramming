@@ -1,12 +1,9 @@
 import java.util.Scanner;
 
-public class ifelse {
+public class Ifelse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("[사용자로부터 사칙연산자 +, -, *, / 값을 입력 받은 후 연산 수행 실시");
-		
-		//사용자로부터 데이터를 입력 받기 위해 Scanner 객체 선언
 		Scanner scan = new Scanner(System.in);
 		
 		//첫번째, 두번째 정수를 입력받는다
